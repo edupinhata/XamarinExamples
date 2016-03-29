@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="DateTimeForm\DateTimeForm.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" ActiveRuntime="MS.NET" PreferredExecutionTarget="Android.192.168.30.101:5555" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DateTimeForm\MainActivity.cs">
+    <Files>
+      <File FileName="DateTimeForm\MainActivity.cs" Line="28" Column="43" />
+      <File FileName="DateTimeForm\TimePickerFragment.cs" Line="7" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DateTimeForm AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
